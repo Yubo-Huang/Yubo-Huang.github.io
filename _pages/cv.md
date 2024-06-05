@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Control Engineering, University of Warwick, Coventry, UK, 2021-2014 (expected)
+* M.S. in Control Engineering, Shanghai Jiaotong University, Shanghai, China, 2021-2014 
+* B.S. in Automation, Northwestern Polytechnical University, Xi'an, China, 2012-2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* From Apr. 2021: Marie Curie Early Stage Researcher
+  * University of Warwick
+  * Duties included: WinGrid and ICONIC project
+  * Line manager: Professor Xiaowei Zhao
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Apr. 2023 - Sep. 2023: Power System Engineer
+  * Nation Grid ESO, United Kingdom
+  * Duties included: Modelling the Great British Power Grid
+  * Line manager: Dr. Mostafa Nick
   
 Skills
 ======
