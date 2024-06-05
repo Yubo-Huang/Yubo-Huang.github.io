@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* From Apr. 2021: Marie Curie Early Stage Researcher
+* From Apr. 2021: Marie Curie Research Fellow
   * University of Warwick
   * Duties included: WinGrid and ICONIC project
   * Line manager: Professor Xiaowei Zhao
@@ -29,12 +29,11 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* High Performance Computing
+* Mechine Learning
+  * Reinforcement Learning
+  * Computer Version
+* Computational fluid dynamics
 
 Publications
 ======
