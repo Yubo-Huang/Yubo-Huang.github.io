@@ -13,17 +13,61 @@ Hi there! Welcome to my personal page. I am currently a PhD student at the Unive
 News
 ======
 
-- 08 May. 2023: My application for participating in the EUTOPIA Impact School has been approvaled by Warwick. So, see you in Germany this autumn!
-- 30 Sep. 2023: I have completed the half-year internship (secondment) in National Grid ESO.  
+- 08 May. 2023: My application for participating in the EUTOPIA Impact School has been approvaled by Warwick. Hello Germany!
+- 30 Sep. 2023: I have completed the half-year internship (secondment) at National Grid ESO.  
 
 Awesome Projects
 ======
 
-I am working two EU horizon projects: WinGird and ICONIC. 
+I am working on two EU horizon projects: WinGird and ICONIC. 
 
-1. WinGrid aims to propose cutting-edge techniques to solve open issues in the field of wind energy, including wind resource evaluation, wind turbine/farm control, grid connection etc.
+## WinGrid
 
-2. ICONIC leverages AI and creates digital twins to enhance wind farm operations and predict maintenance needs, boosting energy capacity, lowering the average cost of electricity for people and accelerating the UK towards its Net Zero target.
+WinGrid aims to propose cutting-edge techniques to solve open issues in the field of wind energy, including wind resource evaluation, wind turbine/farm control, grid connection etc. In this project, I have achieved the following milestone:
+
+I have constructed a Computational Fuild Dynamics (CFD) - based wind farm simulator. It can calculate high-fidelity solutions since it integrates the Navier-Stocks equations for wind velocity dynamics and Actuator Line Model (ALM) for turbine mechanical dynamics. There are many direct application of this simulator.  
+
+- Wind farm layout design
+- Advanced control algorithms/systems development
+- Machine learning, such as wind forcasting, turbine life-span prediction
+
+Prototype of IEA22 MW wind turbine
+
+<p align="center">
+  <img src="../images/IEA22MW.png" alt="turbine" width="400">
+</p>
+
+The iso-surface of vorticity
+
+<p align="center">
+  <img src="../images/Vorticity.png" alt="Vorticity" width="400">
+</p>
+
+
+The turbine wakes in a wind farm simulated by this simuator:
+
+<p align="center">
+  <img src="../images/Velocity.gif" alt="Wakes" width="400">
+</p>
+
+
+
+## ICONIC
+ICONIC leverages AI and creates digital twins to enhance wind farm operations and predict maintenance needs, boosting energy capacity, lowering the average cost of electricity for people and accelerating the UK towards its Net Zero target.
+
+The following are the visulation of a part of wind farm data collected to train a deep learning-based wind farm wake model - DeepWake
+
+<p align="center">
+  <img src="../images/Fig/twilight.png" alt="First Image" width="200">
+  <img src="../images/Fig/turbo.png" alt="Second Image" width="200">
+  <img src="../images/Fig/terrain.png" alt="Third Image" width="200">
+</p>
+
+<p align="center">
+  <img src="../images/Fig/Dark2.png" alt="First Image" width="200">
+  <img src="../images/Fig/gist_ncar.png" alt="Second Image" width="200">
+  <img src="../images/Fig/flag.png" alt="Third Image" width="200">
+</p>
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
