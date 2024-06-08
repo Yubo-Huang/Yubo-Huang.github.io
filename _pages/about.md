@@ -58,15 +58,15 @@ ICONIC leverages AI and creates digital twins to enhance wind farm operations an
 The following are the visulation of a part of wind farm data collected to train a deep learning-based wind farm wake model - DeepWake
 
 <p align="center">
-  <img src="../images/Fig/twilight.png" alt="First Image" width="200">
-  <img src="../images/Fig/turbo.png" alt="Second Image" width="200">
-  <img src="../images/Fig/terrain.png" alt="Third Image" width="200">
+  <img src="../images/Fig/twilight.png" alt="First Image" width="300">
+  <img src="../images/Fig/turbo.png" alt="Second Image" width="300">
+  <img src="../images/Fig/terrain.png" alt="Third Image" width="300">
 </p>
 
 <p align="center">
-  <img src="../images/Fig/Dark2.png" alt="First Image" width="200">
-  <img src="../images/Fig/gist_ncar.png" alt="Second Image" width="200">
-  <img src="../images/Fig/flag.png" alt="Third Image" width="200">
+  <img src="../images/Fig/Dark2.png" alt="First Image" width="300">
+  <img src="../images/Fig/gist_ncar.png" alt="Second Image" width="300">
+  <img src="../images/Fig/flag.png" alt="Third Image" width="300">
 </p>
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
