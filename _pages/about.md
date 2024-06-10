@@ -25,6 +25,7 @@ I am working on two EU horizon projects: WinGird and ICONIC.
 
 WinGrid aims to propose cutting-edge techniques to solve open issues in the field of wind energy, including wind resource evaluation, wind turbine/farm control, grid connection etc. In this project, I have achieved the following milestone:
 
+### Wind Farm Modelling
 I have constructed a Computational Fuild Dynamics (CFD) - based wind farm simulator. It can calculate high-fidelity solutions since it integrates the Navier-Stocks equations for wind velocity dynamics and Actuator Line Model (ALM) for turbine mechanical dynamics. There are many direct application of this simulator.  
 
 - Wind farm layout design
@@ -51,6 +52,13 @@ The turbine wakes in a wind farm simulated by this simuator:
 </p>
 
 
+### Wind Farm Control
+
+Based on the developed wind farm simulator, I have trained both a single-objective controller and a multi-objective controller for wind farm. The single-objective farm-level controller can coordinate all turbines in a wind farm to mitigate the wake effect via redirecting the wake direction and regulating the wake intensity, and further increasing the power generation of wind farm. Based on it, a multi-objective controller is trained, which can achieve other control purposes besides power boost, such as fault-ride-through, grid frequency recovercy and more. 
+
+The wake without control and the redirection of wakes under horizonal inflow, upright inflow and downright inflow are illustrated as follows
+
+![Wake](../images/WakeRediction.png)
 
 ## ICONIC
 ICONIC leverages AI and creates digital twins to enhance wind farm operations and predict maintenance needs, boosting energy capacity, lowering the average cost of electricity for people and accelerating the UK towards its Net Zero target.
