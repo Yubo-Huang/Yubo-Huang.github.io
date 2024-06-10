@@ -19,20 +19,21 @@ News
 Awesome Projects
 ======
 
-I am working on two EU horizon projects: WinGird and ICONIC. 
+I am currently working on two EU Horizon projects: WinGrid and ICONIC.
 
 ## WinGrid
 
-WinGrid aims to propose cutting-edge techniques to solve open issues in the field of wind energy, including wind resource evaluation, wind turbine/farm control, grid connection etc. In this project, I have achieved the following milestone:
+WinGrid aims to propose cutting-edge techniques to address open issues in the field of wind energy, including wind resource evaluation, wind turbine/farm control, and grid connection. In this project, I have achieved the following milestones:
 
 ### Wind Farm Modelling
-I have constructed a Computational Fuild Dynamics (CFD) - based wind farm simulator. It can calculate high-fidelity solutions since it integrates the Navier-Stocks equations for wind velocity dynamics and Actuator Line Model (ALM) for turbine mechanical dynamics. There are many direct application of this simulator.  
+
+I have constructed a Computational Fluid Dynamics (CFD)-based wind farm simulator. This simulator can calculate high-fidelity solutions as it integrates the Navier-Stokes equations for wind velocity dynamics and the Actuator Line Model (ALM) for turbine mechanical dynamics. There are many direct applications of this simulator, including:
 
 - Wind farm layout design
-- Advanced control algorithms/systems development
-- Machine learning, such as wind forcasting, turbine life-span prediction
+- Development of advanced control algorithms/systems
+- Machine learning applications such as wind forecasting and turbine lifespan prediction
 
-Prototype of IEA22 MW wind turbine
+Prototype of the IEA22 MW wind turbine
 
 <p align="center">
   <img src="../images/IEA22MW.png" alt="turbine" width="400">
@@ -53,7 +54,7 @@ The turbine wakes in a wind farm simulated by this simuator:
 
 ### Short-Term Inflow Wind Forcasting
 
-Predictive control of wind farm needs to the wind profiles in the future a few seconds. Therefore, the inflow wind on the in front of a large wind turbine should be precisely predicted. In this project, I designed a deep-learning model name **WindFore** to achieve this function. The forcasting results of WindFore is shown as following
+Predictive control of a wind farm requires accurate wind profile forecasts for the upcoming few seconds. Therefore, it is essential to precisely predict the inflow wind in front of a large wind turbine. In this project, I designed a deep-learning model named WindFore to achieve this function. The forecasting results of WindFore are shown below:
 
 <p align="center">
   <img src="../images/pred.gif" alt="First Image" width="250">
@@ -65,16 +66,16 @@ Left: Prediction via WindFore; Middle: Label from TurbSim; Right: Prdiction Erro
 
 ### Wind Farm Control
 
-Based on the developed wind farm simulator, I have trained both a single-objective controller and a multi-objective controller for wind farm. The single-objective farm-level controller can coordinate all turbines in a wind farm to mitigate the wake effect via redirecting the wake direction and regulating the wake intensity, and further increasing the power generation of wind farm. Based on it, a multi-objective controller is trained, which can achieve other control purposes besides power boost, such as fault-ride-through, grid frequency recovercy and more. 
+Based on the developed wind farm simulator, I have trained both a single-objective controller and a multi-objective controller for wind farms. The single-objective farm-level controller can coordinate all turbines in a wind farm to mitigate the wake effect by redirecting the wake direction and regulating the wake intensity, thereby increasing the power generation of the wind farm. Building on this, a multi-objective controller has been trained to achieve additional control purposes besides power boost, such as fault ride-through, grid frequency recovery, and more.
 
-The wake without control and the redirection of wakes under horizonal inflow, upright inflow and downright inflow are illustrated as follows
+The wake patterns without control and the redirection of wakes under various inflow conditions—horizontal inflow, upright inflow, and downright inflow—are illustrated as follows:
 
 ![Wake](../images/WakeRediction.png)
 
 ## ICONIC
-ICONIC leverages AI and creates digital twins to enhance wind farm operations and predict maintenance needs, boosting energy capacity, lowering the average cost of electricity for people and accelerating the UK towards its Net Zero target.
+ICONIC leverages AI and creates digital twins to enhance wind farm operations and predict maintenance needs, boosting energy capacity, lowering the average cost of electricity, and accelerating the UK towards its Net Zero target.
 
-The following are the visulation of a part of wind farm data collected to train a deep learning-based wind farm wake model - **DeepWake**
+The following are visualizations of a portion of the wind farm data collected to train a deep learning-based wind farm wake model, **DeepWake**:
 
 <p align="center">
   <img src="../images/Fig/twilight.png" alt="First Image" width="250">
