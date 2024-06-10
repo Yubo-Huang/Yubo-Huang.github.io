@@ -51,6 +51,17 @@ The turbine wakes in a wind farm simulated by this simuator:
   <img src="../images/Velocity.gif" alt="Wakes" width="400">
 </p>
 
+### Short-Term Inflow Wind Forcasting
+
+Predictive control of wind farm needs to the wind profiles in the future a few seconds. Therefore, the inflow wind on the in front of a large wind turbine should be precisely predicted. In this project, I designed a deep-learning model name **WindFore** to achieve this function. The forcasting results of WindFore is shown as following
+
+<p align="center">
+  <img src="../images/pred.gif" alt="First Image" width="250">
+  <img src="../images/label.gif" alt="Second Image" width="250">
+  <img src="../images/error.gif" alt="Third Image" width="250">
+</p>
+
+Left: Prediction via WindFore; Middle: Label from TurbSim; Right: Prdiction Error
 
 ### Wind Farm Control
 
@@ -63,7 +74,7 @@ The wake without control and the redirection of wakes under horizonal inflow, up
 ## ICONIC
 ICONIC leverages AI and creates digital twins to enhance wind farm operations and predict maintenance needs, boosting energy capacity, lowering the average cost of electricity for people and accelerating the UK towards its Net Zero target.
 
-The following are the visulation of a part of wind farm data collected to train a deep learning-based wind farm wake model - DeepWake
+The following are the visulation of a part of wind farm data collected to train a deep learning-based wind farm wake model - **DeepWake**
 
 <p align="center">
   <img src="../images/Fig/twilight.png" alt="First Image" width="250">
