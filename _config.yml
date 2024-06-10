@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Academic page for Yubo"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Yubo Huang"
 description              : &description "personal description"

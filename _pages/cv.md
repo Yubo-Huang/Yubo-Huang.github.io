@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Control Engineering, University of Warwick, Coventry, UK, 2021-2014 (expected)
+* Ph.D in Control Engineering, University of Warwick, Coventry, UK, 2021-2024 (expected)
 * M.S. in Control Engineering, Shanghai Jiaotong University, Shanghai, China, 2021-2014 
 * B.S. in Automation, Northwestern Polytechnical University, Xi'an, China, 2012-2018
 
