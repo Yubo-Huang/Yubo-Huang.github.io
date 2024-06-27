@@ -62,7 +62,7 @@ Predictive control of a wind farm requires accurate wind profile forecasts for t
   <img src="../images/error.gif" alt="Third Image" width="250">
 </p>
 
-Left: Prediction via WindFore; Middle: Label from TurbSim; Right: Prdiction Error
+Left: Prediction via WindFore; Middle: Label from TurbSim; Right: Prediction Error
 
 ### Wind Farm Control
 
