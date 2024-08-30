@@ -46,10 +46,15 @@ The iso-surface of vorticity
 </p>
 
 
-The turbine wakes in a wind farm simulated by this simuator:
+The turbine wakes in a wind farm simulated by this simuator (ALM model):
 
 <p align="center">
   <img src="../images/Velocity.gif" alt="Wakes" width="400">
+</p>
+
+The turbine wakes in a wind farm simulated by this simuator (ADM model):
+<p align="center">
+  <img src="../images/Stand9TurbineCF.gif" alt="Wakes" width="400">
 </p>
 
 ### Short-Term Inflow Wind Forcasting
