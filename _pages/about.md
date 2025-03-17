@@ -54,7 +54,7 @@ The turbine wakes in a wind farm simulated by this simuator (ALM model):
 
 The turbine wakes in a wind farm simulated by this simuator (ADM model):
 <p align="center">
-  <img src="../images/InverseInflow10Epison3.2TI12_whiteall.mp4" alt="Wakes" width="400">
+  <img src="../images/Stand9TurbineCF.gif" alt="Wakes" width="400">
 </p>
 
 ### Short-Term Inflow Wind Forcasting
