@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! Welcome to my personal page. I am currently a PhD student at the University of Warwick and expect to obtain my degree in the autumn of this year. My research interests include developing cutting-edge deep learning-based control techniques and applying them to autonomous systems such as wind and tidal turbines, as well as unmanned aerial and surface vehicles.
+Hi there! Welcome to my personal page. I am currently a Senior Research Associate at the University of Bristol. My current research focuses on designing high-performance algorithms to accelerate numerical weather model calculations. Additionally, I am interested in developing advanced deep learning-based control techniques and applying them to autonomous systems, including wind and tidal turbines, as well as unmanned aerial and surface vehicles.
 
 News
 ======
-
-- 08 May. 2023: My application for participating in the EUTOPIA Impact School has been approvaled by Warwick. Hello Germany!
-- 30 Sep. 2023: I have completed the half-year internship (secondment) at National Grid ESO.  
+- 02 March 2024: My paper 'Wind Farm Control via Offline Reinforcement Learning with Adversarial Training' is accepted by IEEE Transactions on Automation Science and Engineering
+- 08 May. 2024: My application for participating in the EUTOPIA Impact School has been approvaled by Warwick. Hello Germany!
+- 30 Sep. 2024: I have completed the half-year internship (secondment) at National Grid ESO.  
 
 Awesome Projects
 ======
@@ -54,7 +54,7 @@ The turbine wakes in a wind farm simulated by this simuator (ALM model):
 
 The turbine wakes in a wind farm simulated by this simuator (ADM model):
 <p align="center">
-  <img src="../images/Stand9TurbineCF.gif" alt="Wakes" width="400">
+  <img src="../images/InverseInflow10Epison3.2TI12_whiteall.mp4" alt="Wakes" width="400">
 </p>
 
 ### Short-Term Inflow Wind Forcasting

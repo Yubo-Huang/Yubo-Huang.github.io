@@ -17,7 +17,12 @@ Education
 
 Work experience
 ======
-* From Apr. 2021: Marie Curie Research Fellow
+* Jan. 2025: Senior Research Associate
+  * University of Bristol
+  * Duties included: NEMO and RADAER
+  * Line manager: Doctor Tom Deakin
+  
+* Apr. 2021 - Nov. 2024: Marie Curie Researcher
   * University of Warwick
   * Duties included: WinGrid and ICONIC project
   * Line manager: Professor Xiaowei Zhao
