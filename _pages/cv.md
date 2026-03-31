@@ -17,7 +17,11 @@ Education
 
 Work experience
 ======
-* Jan. 2025: Senior Research Associate
+* Apr. 2025: Professor
+  * Northwestern Polytechnique University
+  * Research: UAV perception, navigation and control 
+  
+* Jan. 2025 - Mar. 2026: Senior Research Associate
   * University of Bristol
   * Duties included: NEMO and RADAER
   * Line manager: Doctor Tom Deakin

@@ -12,6 +12,9 @@ Hi there! Welcome to my personal page. I am currently a Senior Research Associat
 
 News
 ======
+- 01 April 2026: I joined in NWPU as a professor!
+- 01 December 2025: I will leave Bristol and have accepted the offer from NWPU!
+- 20 August 2025: Our paper entitled 'Multiagent Inductive Policy Optimization' has been published on 'IEEE Transactions on Neural Networks and Learning Systems'
 - 02 March 2024: My paper 'Wind Farm Control via Offline Reinforcement Learning with Adversarial Training' is accepted by IEEE Transactions on Automation Science and Engineering
 - 08 May. 2024: My application for participating in the EUTOPIA Impact School has been approvaled by Warwick. Hello Germany!
 - 30 Sep. 2024: I have completed the half-year internship (secondment) at National Grid ESO.  
