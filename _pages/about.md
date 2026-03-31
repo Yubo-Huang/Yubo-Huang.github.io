@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! Welcome to my personal page. I am currently a Senior Research Associate at the University of Bristol. My current research focuses on designing high-performance algorithms to accelerate numerical weather model calculations. Additionally, I am interested in developing advanced deep learning-based control techniques and applying them to autonomous systems, including wind and tidal turbines, as well as unmanned aerial and surface vehicles.
+Hi there! Welcome to my personal page. I am currently a professor at Northwestern Polytechnical Universityl (NWPU). My current research focuses on designing high-performance algorithms to accelerate numerical weather model calculations. Additionally, I am interested in developing advanced deep learning-based control techniques and applying them to autonomous systems, including wind and tidal turbines, as well as unmanned aerial and surface vehicles.
 
 News
 ======
